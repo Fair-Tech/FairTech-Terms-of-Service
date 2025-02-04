@@ -1,0 +1,17 @@
+TERMS OF SERVICE AGREEMENT
+
+This Terms of Service Agreement (the "Agreement") is entered into between FairTech US ("FairTech") and the user ("User") of FairTech's Applications, Discord Bots or Activities, Websites, or other form of Digital Content (the "Software").
+
+By using the Software, the User agrees to be bound by the terms of this Agreement. If the User does not agree to the terms of this Agreement, they should immediately discontinue use of the Software.
+
+1. Use of the Software: FairTech grants the User a non-exclusive, non-transferable, limited license to use the Software for personal or non-commercial purposes.
+2. Prohibited Use: The User may not use the Software in any way that violates applicable laws, rules, or regulations or infringes upon the rights of any third party. The User may not use the Software for any commercial purposes without the express written consent of FairTech.
+3. Limitation of Liability: FairTech shall not be liable for any damages arising out of the use or inability to use the Software, including but not limited to, damages for loss of profits, loss of data, or other intangible losses.
+4. Modifications to the Software: FairTech may modify or discontinue the Software at any time without notice. The User agrees that FairTech shall not be liable to the User or any third party for any modification, suspension, or discontinuance of the Software.
+5. Intellectual Property: The Software and all intellectual property rights therein are and shall remain the property of FairTech. The User agrees not to copy, modify, or distribute the Software or any portion thereof without the express written consent of FairTech.
+6. Indemnification: The User agrees to indemnify and hold harmless FairTech, its affiliates, and their respective directors, officers, employees, and agents from any and all claims, damages, liabilities, costs, and expenses, including reasonable attorneys' fees, arising out of the User's use of the Software.
+7. Termination: This Agreement may be terminated by either party at any time for any reason. Upon termination, the User must immediately cease all use of the Software.
+8. Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the United States. Any dispute arising under or in connection with this Agreement shall be resolved by arbitration in accordance with the rules of the US Government.
+9. Entire Agreement: This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements or representations, whether written or oral, relating to the Software.
+
+By using the Software, the User acknowledges that they have read this Agreement, understand it, and agree to be bound by its terms and conditions.
